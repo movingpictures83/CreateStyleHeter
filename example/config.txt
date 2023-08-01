@@ -1,0 +1,2 @@
+Prefix plugins/CreateStyleHeter/example/
+Plugin CreateStyleHeter inputfile parameters.txt outputfile style.xml
